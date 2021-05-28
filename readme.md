@@ -1,1 +1,1 @@
-This is a sample file to be committed using git.
+This is a sample file to be committed using git. This is for the new branch.
